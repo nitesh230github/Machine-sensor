@@ -1,1 +1,1 @@
-# Raiway Sensors Dataset (Implement Adpative Clusrtering)
+# Railway Sensors Dataset (Implement Adpative Clusrtering)
